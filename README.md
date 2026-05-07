@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  Hi 👋, I'm Priyanka Singh:
 Software Engineer|Frontend Developer|Advancing into Full Stack Development
 
 
